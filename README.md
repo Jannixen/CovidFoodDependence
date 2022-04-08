@@ -10,7 +10,12 @@ Based on the results, it is possible to evaluate the assumptions given in the re
 
 ## Authors
 Joanna Koła 
+
 [Bartosz Mazur](https://github.com/BartekM23)
+
+
+
+
 
 
 #Linear Regression #Lasso #Feature Selection
